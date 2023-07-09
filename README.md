@@ -2,10 +2,18 @@
 
 This is an augmented reality (AR) shooting game made using Unity. The objective of the game is to shoot balloons within a time limit of 30 seconds. The game keeps track of the player's score and allows them to restart the game after the time runs out.
 
+# Demo Video
+
+
+
+https://github.com/arjun-rai912/AR-ShootingGame/assets/85013470/84cc8d61-3774-4ca6-b930-73e9e932437a
+
+
+
 ## Gameplay
 
 1. Launch the AR Shooting Game application.
-2. Point your device's camera at a suitable surface to initialize the AR environment.
+2. Point your device's camera to a suitable surface to initialize the AR environment.
 3. Balloons will appear on the screen within the camera view.
 4. Tap the screen to shoot at the balloons.
 5. The game lasts for 30 seconds. Try to shoot as many balloons as possible within this time.
@@ -42,7 +50,7 @@ This is an augmented reality (AR) shooting game made using Unity. The objective 
 
 If you are interested in developing or building the AR Shooting Game, follow the steps below:
 
-1. Install Unity on your development machine. (Version X.X.X or later)
+1. Install Unity on your development machine. (Version 2022.3 or later)
 2. Clone the AR Shooting Game repository from [GitHub Repository Link].
 3. Open Unity and import the cloned project.
 4. Customize and enhance the game mechanics, visuals, and features as desired.
