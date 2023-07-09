@@ -1,35 +1,38 @@
-## AR Shooting Game - Unity Balloon Shooter
-Welcome to the AR Shooting Game! This is an exciting game developed using Unity where players can shoot balloons in an augmented reality (AR) environment. Put on your shooting skills and get ready for a fun-filled experience of bursting balloons!
+## AR Shooting Game
+This is an augmented reality (AR) shooting game made using Unity. The objective of the game is to shoot balloons within a time limit of 30 seconds. The game keeps track of the player's score and allows them to restart the game after the time runs out.
 
-# Game Description
-The AR Shooting Game is a casual and entertaining shooting game that leverages augmented reality technology. Players can enjoy the game by shooting balloons that appear in their real-world environment through their device's camera. The game offers an immersive experience by blending virtual elements with the real world, creating an exciting and interactive gameplay.
-
-# Features
-Augmented Reality Experience: The game uses the device's camera and AR technology to overlay virtual balloons onto the player's real-world environment.
-Balloon Shooting: Players can shoot the balloons by tapping on them using their device's screen.
-Score Tracking: The game keeps track of the player's score based on the number of balloons they successfully shoot.
-Time Limit: Players have a limited amount of time to shoot as many balloons as possible and achieve the highest score.
-Balloon Variations: Different types of balloons may appear, offering unique characteristics and challenges.
-Realistic Balloon Physics: The balloons move realistically in the game, adding to the challenge and fun.
-Installation
-To play the AR Shooting Game, please follow these steps:
-
-Ensure that you have a compatible mobile device (iOS or Android) that supports ARCore (for Android) or ARKit (for iOS).
-Download and install the latest version of Unity (https://unity.com/).
-Clone or download the game's source code from the repository: GitHub Repository.
-Open Unity and navigate to the project folder.
-Build the project for your desired target platform (iOS or Android) by selecting "File" -> "Build Settings" and choosing the appropriate platform.
-Once the build process is complete, transfer the game to your mobile device.
-Install the game on your device by following the standard installation procedure for your platform.
-Launch the game and grant the necessary permissions for camera access.
-Find a suitable location and start shooting balloons in augmented reality!
-Note: Make sure to check the system requirements and AR compatibility of your device for a smooth gameplay experience.
-
-# Controls
-Tap on the screen: Shoot a balloon.
-Feedback and Bug Reporting
-We greatly appreciate your feedback and bug reports to enhance the AR Shooting Game. If you encounter any issues or have suggestions for improvements, please feel free to contact us or submit an issue on the GitHub repository.
-
-
-
-Enjoy the AR Shooting Game, have fun shooting balloons, and aim for the highest score!
+# Gameplay
+1.Launch the AR Shooting Game application.
+2.Point your device's camera at a suitable surface to initialize the AR environment.
+3.Balloons will appear on the screen within the camera view.
+4.Tap the screen to shoot at the balloons.
+5.The game lasts for 30 seconds. Try to shoot as many balloons as possible within this time.
+6.The score will be displayed on the screen as you shoot balloons.
+7.After the time limit is reached, the game ends.
+# Scoring
+1.Each balloon successfully shot will increase the player's score.
+2.The score is displayed on the screen in real-time.
+3.The score is cumulative and does not reset during the game.
+4.Aim to achieve the highest score possible within the given time frame.
+# Restarting the Game
+1.After the 30-second time limit expires, the game ends.
+2.The final score will be displayed on the screen.
+3.To restart the game, tap the restart button or a designated area on the screen.
+4.The game will reset, allowing you to play again and attempt to beat your previous score.
+# System Requirements
+1Android or iOS device with a camera.
+2.Unity AR Shooting Game application installed on the device.
+3.Sufficient storage space on the device to install and run the application.
+# Installation
+1.Download the Unity AR Shooting Game application from the provided source (e.g., app store, website).
+2.Install the application on your Android or iOS device.
+3.Ensure that the device's camera and storage permissions are granted to the application.
+# Development and Build
+If you are interested in developing or building the AR Shooting Game, follow the steps below:
+Install Unity on your development machine. (Version 2022.3 or later)
+Clone the AR Shooting Game repository from [GitHub Repository Link].
+Open Unity and import the cloned project.
+Customize and enhance the game mechanics, visuals, and features as desired.
+Test the game using the Unity editor and the AR Foundation package.
+Build the game for your target platform (Android or iOS).
+Deploy the built game on devices or distribute it through suitable app stores.
